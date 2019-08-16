@@ -1,5 +1,5 @@
 # Starter Web Repo
-Change in Master
+Change in Master, also change in feature branch
 
 This repository is for showing how Git and GitHub work
 
